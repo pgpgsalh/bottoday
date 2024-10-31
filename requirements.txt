@@ -1,6 +1,5 @@
-ccxt==1.60.0
-ta==0.7.0
-pandas==1.5.3
-async==3.10.1
-nest_asyncio==1.5.1
-aiogram==2.21
+ccxt
+ta
+pandas
+nest_asyncio
+aiogram
